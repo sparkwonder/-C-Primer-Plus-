@@ -1,0 +1,12 @@
+	#include<stdio.h>
+	int main(void)
+	{
+		int toes;
+		toes = 10;
+		int double_toes = toes * 2;
+		int square_toes = toes * toes;
+		printf("the value of toes is : %d\n", toes);
+		printf("the value of double toes is : %d\n", double_toes);
+		printf("the value of square toes is : %d\n", square_toes);
+		return 0;
+	}
