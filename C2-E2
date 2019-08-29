@@ -1,0 +1,6 @@
+	#include<stdio.h>
+	int main(void)
+	{
+		printf("Mars Spark New York,USA\n");
+		return 0；
+	}
