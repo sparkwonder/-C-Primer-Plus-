@@ -1,0 +1,9 @@
+	#include<stdio.h>
+	int main(void)
+	{
+		printf("Mars Spark\n");
+		printf("Mars\nSpark\n");
+		printf("Mars");
+		printf("Spark\n");
+		return 0；
+	}
