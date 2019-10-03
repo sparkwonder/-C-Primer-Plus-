@@ -2,10 +2,10 @@
 	int main(void)
 	{
 		float inch, cm;
-		printf("Please enter length.\n");
+		printf("Please enter length at inch.\n");
 		scanf("%f", &inch);
 		cm = inch * 2.54;
-		printf("length is %.2fcm.\n",cm);
+		printf("The length is %.2fcm.\n",cm);
 		return 0;
 	}
 
